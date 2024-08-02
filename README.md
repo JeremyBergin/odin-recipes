@@ -1,0 +1,1 @@
+First project through odin. Show my introductory skills in html. Show those that are looking that I am committed to learning development and becoming a full-stack developer. We all start somewhere right?
