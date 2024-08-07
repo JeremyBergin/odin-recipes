@@ -1,0 +1,39 @@
+* {box-sizing: border-box;}
+
+body {background-color: rgba(250, 128, 114, 0.644);
+}
+
+h1 {color: rgba(77, 77, 77, 0.911);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    padding-left: 40px;}
+
+.recipe {text-align: center; 
+    font-size: 28px; 
+    font-weight: 600;
+    width: 300px;
+    margin: auto;
+}
+
+#tamale {
+    background-color: rgba(129, 99, 59, 0.877);
+    
+}
+
+#cacio {background-color: rgba(206, 180, 36, 0.815);
+
+}
+
+#ramen {background-color: rgba(58, 88, 24, 0.726);
+
+}
+
+img {width: 300px;
+height: auto;
+display: block;
+border: solid black 2px;
+margin: auto;}
+
+ul {list-style-type: none;}
