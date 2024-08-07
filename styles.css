@@ -1,9 +1,18 @@
-* {box-sizing: border-box;}
+* {box-sizing: border-box;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
-body {background-color: rgba(250, 128, 114, 0.644);
+body {
+    background-image: url(https://cdn.vectorstock.com/i/750p/81/59/beige-restaurant-background-vector-1878159.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(240, 248, 255, 0.534);
 }
 
-h1 {color: rgba(77, 77, 77, 0.911);
+h1 {color: rgb(0, 0, 0);
+    background-color: rgba(126, 219, 219, 0.692);
+    width: auto;
+    height: auto;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
@@ -19,7 +28,7 @@ h1 {color: rgba(77, 77, 77, 0.911);
 
 #tamale {
     background-color: rgba(129, 99, 59, 0.877);
-    
+
 }
 
 #cacio {background-color: rgba(206, 180, 36, 0.815);
